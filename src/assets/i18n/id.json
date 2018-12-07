@@ -91,9 +91,9 @@
   "GENERATE": "Menghasilkan",
   "IMPORT": "Impor",
   "INTRO_PAGE": {
-    "FAST_EASY": "Fast and Easy",
-    "GET_STARTED": "Get Started",
-    "SECURITY": "Security",
+    "FAST_EASY": "Cepat dan Mudah",
+    "GET_STARTED": "Mulai",
+    "SECURITY": "Keamanan",
     "TEXT_1": "We provide all the tools you need to manage your ARK tokens, anytime, anywhere, worldwide!",
     "TEXT_2": "All your sensitive data is securely stored using PBKDF2 algorithm and AES-256 encryption protected by your PIN Code",
     "TEXT_3": "Swipe between profiles and wallets, check your balances, send and receive funds and much more",
