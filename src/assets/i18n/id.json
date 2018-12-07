@@ -100,11 +100,11 @@
     "WELCOME": "Welcome Aboard"
   },
   "SIGN_IN_PAGE": {
-    "ARK_WALLET": "ARK Wallet",
-    "CREATE_PROFILE": "Create a profile",
-    "SLOGAN": "Welcome to the ARK Ecosystem"
+    "ARK_WALLET": "Dompet Ark",
+    "CREATE_PROFILE": "Buat Profil",
+    "SLOGAN": "Selamat Datang di Ekosistem Ark"
   },
-  "SIGN_OUT_PROFILE_TEXT": "Sign out of Profile?",
+  "SIGN_OUT_PROFILE_TEXT": "Keluar dari Setting Profil?",
   "MARKETS_PAGE": {
     "MARKET_CAP": "Market Cap.",
     "MARKET_DATA": "Market Data",
